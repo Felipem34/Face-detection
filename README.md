@@ -16,6 +16,6 @@ Application to detect faces with or without mask on images.
   with the pic results on the "[xxx]/output/".
   
 ### Extra:  
-- /dataset/base20 and ../base20  contains the dataset sent to robocup 2020 and 2021.
-- /dataset/test could be used for test. 
+- /dataset/base20 and ../base21  contains the dataset sent to robocup 2020 and 2021.
+- /dataset/RoboCup2021 contains the dataset received from robocup 2021.
 - /models/ contais the models used to detec faces and mask.
